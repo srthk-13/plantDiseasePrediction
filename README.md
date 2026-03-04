@@ -4,6 +4,10 @@ A smart **machine learning-powered application** that predicts whether a plant i
 
 ---
 
+## Demo Link- https://plantdiseaseprediction-kr45pk7eglkwukfcnn3ybx.streamlit.app/
+
+---
+
 ## 🔍 📌 Overview
 
 Plant health is highly influenced by environmental conditions such as temperature, humidity, rainfall, and soil pH. This project uses a trained machine learning model to analyze environmental data and **predict if a plant is likely to be diseased or healthy**. It provides a simple and interactive user experience with real-time predictions.
